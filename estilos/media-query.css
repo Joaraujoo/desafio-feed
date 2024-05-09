@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@media (max-width: 700px){
+
+    .profile{
+        width: 350px;
+        margin-left: 0;
+    }
+
+    .photo{
+        width: 350px;
+    }
+
+}
